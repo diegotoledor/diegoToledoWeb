@@ -257,7 +257,7 @@ section#about{
 .section-title-container{
     width: 67%;
     height: 100px;
-    margin-top: 80px;
+    margin-top: 30px;
     display: flex;
     justify-content:flex-start;
     /* border: solid black; */
@@ -265,13 +265,13 @@ section#about{
 
 .section-title{
     position: relative;
-    /* border: solid black; */
+    border: solid black;
     font-size: 60px;
 }
 
 @media screen and (max-width:1024px){
     .section-title-container{
-        width: 78%;
+        width:78%%;
     }
 }
 
