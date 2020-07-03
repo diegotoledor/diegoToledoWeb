@@ -265,7 +265,7 @@ section#about{
 
 .section-title{
     position: relative;
-    border: solid black;
+    /* border: solid black; */
     font-size: 60px;
 }
 
