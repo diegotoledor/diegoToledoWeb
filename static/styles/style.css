@@ -269,7 +269,7 @@ section#about{
     font-size: 60px;
 }
 
-@media screen and (max-width:1024px){
+@media screen and (max-width:768px){
     .section-title-container{
         width:78%;
     }
@@ -296,7 +296,7 @@ section#about{
 @media screen and (max-width:1600px){
     .parent-about{
         display: inline-flex;
-        max-width: 90%;
+        max-width: 100%;
     }
 }
 
