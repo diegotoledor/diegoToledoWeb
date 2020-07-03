@@ -4,15 +4,11 @@
     box-sizing: border-box;
 }
 
-html {
-    overflow-x: hidden;
-}
 
 body {
     background: rgb(40, 43, 58);
     color: white;
     height: 100vh;
-    overflow-x: hidden;
 }
 
 p {
@@ -29,7 +25,6 @@ h1, h2, h3, h4{
 
 nav{
     position: sticky;
-
     top: 0;
     display: flex;
     justify-content: space-around;
@@ -63,7 +58,6 @@ nav{
     letter-spacing: 3px;
     font-weight: bold;
     font-size: 18px;
-
 }
 
 .burger {
