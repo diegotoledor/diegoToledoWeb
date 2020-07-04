@@ -220,7 +220,17 @@ span.fade{
     animation-fill-mode: forwards;
     }
 }
- @keyframes vienna-line-animation{
+
+@media screen and (max-width:768px){
+    .title-div{
+        max-width: 277px;
+    }
+    .fancy-span{
+        min-width: 360px;
+    }    
+}
+
+@keyframes vienna-line-animation{
     from{
         width: 0%;
         visibility: hidden;
