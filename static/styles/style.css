@@ -568,6 +568,30 @@ section#work{
     cursor: pointer;
 }
 
+#overlay-2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+    cursor: pointer;
+}
+
+.under-construction {
+    margin-top: 5%;
+    min-width: 300px;
+    min-height: 300px;
+}
+
+.section-under-construction{
+    margin-top: 5%;
+}
+
 .inner-overlay{
     overflow-y: scroll;
     max-width: 80%;

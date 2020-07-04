@@ -366,6 +366,14 @@ function overlayOneOff() {
     document.getElementById("overlay-1").style.display = "none";
 };
 
+function overlayTwoOn() {
+    document.getElementById("overlay-2").style.display = "block";
+};
+
+function overlayTwoOff() {
+    document.getElementById("overlay-2").style.display = "none";
+};
+
 // Light Mode
 
 function lightMode(){
