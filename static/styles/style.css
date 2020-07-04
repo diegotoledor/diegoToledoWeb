@@ -602,6 +602,17 @@ section#work{
     margin-top: 5%;
 }
 
+@media screen and (max-width:768px){
+    .section-under-construction{
+        font-size: 40px;
+    }
+    .under-construction{
+        max-width: 200px;
+        min-height: 240px;
+
+    }
+}
+
 .inner-overlay{
     overflow-y: scroll;
     max-width: 80%;
@@ -694,6 +705,7 @@ section#work{
     border-radius: 100px 100px 100px 100px;
 
 }
+
 
 /* Footer */
 
