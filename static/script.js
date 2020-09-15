@@ -75,8 +75,8 @@ var aboutBirthTwo =  `13.09.1991`;
 var aboutJob = `<b> MimoHello GmbH </b>  <br> QA specialist`;
 var aboutJobTwo = `2018 - 2020`;
 
-var aboutMasters = `<b>M.A:</b> Work in Progress`;
-var aboutMastersTwo = `2020 - 2050`;
+var aboutMasters = `<b>M.A:</b> FHWien der WKW`;
+var aboutMastersTwo = `2020 - 2022`;
 
 
 var aboutNationality = `<b>Nationality:</b>`;

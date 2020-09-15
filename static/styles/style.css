@@ -624,6 +624,7 @@ section#work{
     flex-direction: column;
     overflow: auto;
     padding-bottom: 5%;
+    border-radius: 8px;
 }
 
 .web-projects{
